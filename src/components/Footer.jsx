@@ -8,10 +8,11 @@ const Footer = () => {
         <div>
           <img src={assets.logo} className="mb-5 w-32" alt="" />
           <p className="w-full text-justify md:w-2/3 text-gray-600 justify-">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis
-            libero deleniti eligendi soluta consequatur fugit, repellendus
-            explicabo quos facere dolores, quidem, minima neque dolorum minus
-            nesciunt earum reiciendis aut veritatis.
+            We are committed to bringing you high-quality products carefully
+            selected to meet your everyday needs. From the latest trends to
+            essential items, we focus on offering great value, secure payments,
+            and reliable delivery. Our goal is to create a smooth, trustworthy,
+            and enjoyable shopping experience for every customer.
           </p>
         </div>
         <div>
@@ -26,15 +27,15 @@ const Footer = () => {
         <div>
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-1 text-gray-600">
-            <li>+1-212-456-7890</li>
-            <li>contact@foreveryou.com</li>
+            <li>+8801631967532</li>
+            <li>onlineshopping@gmail.com</li>
           </ul>
         </div>
       </div>
       <div className="text-gray-700">
         <hr className="border-gray-200" />
         <p className="py-5 text-sm text-center">
-          Copyright 2025@ forever.com - All Right Reserved.
+          Copyright © 2025 onlineshopping.com. All Rights Reserved.
         </p>
       </div>
     </div>

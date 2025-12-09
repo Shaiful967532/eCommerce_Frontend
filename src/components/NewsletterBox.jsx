@@ -10,8 +10,8 @@ const NewsletterBox = () => {
         Subscribe now & get 20% off
       </p>
       <p className="text-gray-400 mt-3">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae,
-        impedit.
+        Join our newsletter to receive exclusive offers, early access to new
+        arrivals, and enjoy an instant 20% discount on your first order.
       </p>
       <form
         className="w-full sm:w-1/2 flex items-center gap-3 mx-auto my-6 border border-gray-200 pl-3"
